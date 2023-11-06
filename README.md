@@ -1,2 +1,2 @@
 # literature
-Generate realistic looking handwriting
+Generate realistic-looking handwriting
